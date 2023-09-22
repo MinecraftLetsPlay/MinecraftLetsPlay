@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**MinecraftLetsPlay/MinecraftLetsPlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello i'm Minecraft Lets Play
 
-Here are some ideas to get you started:
+As you might have guessed, Minecraft is one of my favorite Games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But i also love Satisfactory and IXION.
+
+
+
+But i am on Github because i also like Programming!
+
+Languages i use are: C++ and HTML
+
+But i like Batch Scripting too.
+
+
+
+Here you can find some of my Projects i made.
