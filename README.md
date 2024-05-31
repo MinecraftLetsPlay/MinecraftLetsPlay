@@ -9,7 +9,7 @@ But i also love Satisfactory and IXION.
 
 But i am on Github because i also like Programming!
 
-Languages i use are: C++ and HTML
+Languages i use are: C++, C# and HTML
 
 But i like Batch Scripting too.
 
