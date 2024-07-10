@@ -1,7 +1,7 @@
 
 Hello i'm Minecraft Lets Play
 
-As you might have guessed, Minecraft is one of my favorite Games.
+As you might have guessed, Minecraft is one of my most favorite Games.
 
 But i also love Satisfactory and IXION, Horizon Zero Dawn, Horizon Forbidden West.
 
