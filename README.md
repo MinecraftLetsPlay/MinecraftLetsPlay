@@ -9,7 +9,7 @@ But i also love Satisfactory and IXION, Horizon Zero Dawn, Horizon Forbidden Wes
 
 But i am on Github because i also like Programming!
 
-Languages i use are: C++, C#, HTML and Python.
+Languages i use are: C#, HTML and Python.
 
 But i like Batch Scripting too.
 
