@@ -1,31 +1,30 @@
 name: generate snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: 
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: MinecraftLetsPlay
           outputs: |
-            dist/snake.svg
-            dist/snake.gif
+            snake.svg
+            snake.gif
 
-      - name: Move files to assets
+      - name: Copy snake to assets
         run: |
           mkdir -p assets
-          mv dist/* assets/
+          cp snake.svg assets/snake.svg
+          cp snake.gif assets/snake.gif
 
-      - name: Commit and push snake
+      - name: Commit Snake
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
