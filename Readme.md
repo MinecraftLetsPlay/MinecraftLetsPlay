@@ -35,6 +35,8 @@ But I also love playing **Satisfactory, IXION, Horizon Zero Dawn** and **Horizon
 ## 📫 Contact
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dein.email@example.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tssKYweM3h)
+- For business and code / application related questions please contact me via the E-Mail.
+- The discord server is a fun place to talk about coding / programming, games and more.
 
 ---
 
