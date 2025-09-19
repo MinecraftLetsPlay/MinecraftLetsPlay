@@ -2,7 +2,7 @@ name: generate snake
 
 on:
   schedule: 
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -24,12 +24,10 @@ jobs:
           cp snake.svg assets/snake.svg
           cp snake.gif assets/snake.gif
 
-      - name: Commit Snake
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions
-          author_email: actions@github.com
-          message: "chore: update snake animation"
-          add: "assets/*"
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_1 }}
+      - name: Commit and push snake
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add assets/snake.svg assets/snake.gif
+          git commit -m "chore: update snake animation" || echo "No changes to commit"
+          git push https://<MinecraftLetsPlay>:${{ secrets.PAT_1 }}@github.com/<MinecraftLetsPlay>/<MinecraftLetsPlay>.git HEAD:main
