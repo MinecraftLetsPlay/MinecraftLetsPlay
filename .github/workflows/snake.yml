@@ -31,3 +31,5 @@ jobs:
           author_email: actions@github.com
           message: "chore: update snake animation"
           add: "assets/*"
+        env:
+           GITHUB_TOKEN: ${{ secrets.PAT_1 }}
