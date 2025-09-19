@@ -39,4 +39,4 @@ But I also love playing **Satisfactory, IXION, Horizon Zero Dawn** and **Horizon
 ---
 
 ## 🐍 Fun
-![Snake animation](assets/snake.gif)
+![Snake animation](assets/snake.svg)
