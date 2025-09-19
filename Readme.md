@@ -40,7 +40,7 @@ But I also love playing **Satisfactory, IXION, Horizon Zero Dawn** and **Horizon
 
 ---
 
-## Wakatime Stats
+## [![wakatime](https://wakatime.com/badge/user/0ef30ee0-2715-4907-baa3-b612e68ff318.svg)](https://wakatime.com/@0ef30ee0-2715-4907-baa3-b612e68ff318) Wakatime Stats
 [![Dennis' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Dennis0647)](https://github.com/MinecraftLetsPlay/github-readme-stats)
 
 ---
