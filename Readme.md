@@ -27,8 +27,8 @@ But I also love playing **Satisfactory, IXION, Horizon Zero Dawn** and **Horizon
 ---
 
 ## 📊 GitHub Stats
-![Dennis' GitHub Stats](https://github-readme-stats-dennis-projects-e0152e8d.vercel.app/api?username=MinecraftLetsPlay&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-dennis-projects-e0152e8d.vercel.app/api/top-langs/?username=MinecraftLetsPlay&layout=compact&theme=radical)
+![Dennis' GitHub Stats](https://github-readme-stats-seven-pearl-59.vercel.app/api?username=MinecraftLetsPlay&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-seven-pearl-59.vercel.app/api/top-langs/?username=MinecraftLetsPlay&layout=compact&theme=radical)
 
 ---
 
