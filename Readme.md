@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Dennis Plischke also known as Minecraft Lets Play
+# 👋 Hello, I'm Dennis Plischke a.k.a. Minecraft Lets Play
 
 🎮 As you might have guessed, **Minecraft** is one of my all-time favorite games.  
 But I also love playing **Satisfactory, IXION, Horizon Zero Dawn** and **Horizon Forbidden West**.  
