@@ -50,8 +50,8 @@ I'm here on GitHub because I also love **programming** and creating new projects
 
 This is a hobby website that my friend and i coded to test our skills in web design.
 
-It also hosts a dashboard for my discord bot snd its legal documents.
+It also hosts a dashboard for my discord bot and its legal documents.
 
-![RD-Code-Forge](https://rd-code-forge.net)
+[RD-Code-Forge](https://rd-code-forge.net)
 ## 🐍 Fun
 ![Snake animation](assets/snake.svg)
