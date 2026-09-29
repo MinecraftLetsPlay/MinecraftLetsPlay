@@ -1,15 +1,16 @@
 # 👋 Hello, I'm Dennis Plischke
 
 🎮 As you might have guessed, **Minecraft** is one of my all-time favorite games.  
-But I also love playing **Satisfactory, IXION, Horizon Zero Dawn** and **Horizon Forbidden West**.  
+But I also love playing **Satisfactory, Star Rupture, Subnautica, Horizon Zero Dawn** and **Horizon Forbidden West**.  
 
 💻 I'm here on GitHub because I also love **programming** and creating new projects!  
 
 ---
 
 ## 🚀 About Me
-- 🌍 Based in Germany  
-- 🔧 Future **Software Engineer** (System Integration in progress)  
+- 🌍 Based in Hessen, Germany
+- 🔧 Future **Software Engineer**
+- ⚙️ Currently im doing a training at Frankfurt Airpot as a IT specialist for System Integration
 - 🖥️ Passionate about programming, gaming, and technology  
 - 🧩 Always learning and experimenting with new ideas  
 
