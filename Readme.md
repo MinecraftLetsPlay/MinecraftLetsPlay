@@ -9,7 +9,7 @@ I'm here on GitHub because I also love **programming** and creating new projects
 
 ## 🚀 About Me
 - 🌍 Based in Hessen, Germany
-- 🔧Currently im doing a training at Frankfurt Airpot as a IT specialist for System Integration
+- 🔧Currently im doing a training at Frankfurt Airport as a IT specialist for System Integration
 - 🖥️ Passionate about programming, gaming, and technology  
 - 🧩 Always learning and experimenting with new ideas  
 
